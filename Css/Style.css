@@ -1,0 +1,8 @@
+.receipe-img{
+     height: 150px; 
+    } 
+header{ 
+background-image: url("images/bg.jpg");
+background-size: cover; 
+}
+a{ cursor: pointer; }
